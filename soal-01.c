@@ -108,7 +108,7 @@ int main()
 	}
 
 	// Output bagian pertama
-	printf("\nDaftar NIM mahasiswa yang mengikuti ujian: ");
+	printf("Daftar NIM mahasiswa yang mengikuti ujian: ");
 	printList(head);
 
 	// pemanggilan fungsi pembagian mahasiswa
