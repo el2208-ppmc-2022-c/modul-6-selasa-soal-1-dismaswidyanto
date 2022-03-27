@@ -5,7 +5,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "5\r\n13\r\n16\r\n71\r\n62\r\n53",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 53 62 71 16 13\r\nDaftar NIM mahasiswa setelah dikelompokan: 62 16 53 71 13",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 53 62 71 16 13 \r\nDaftar NIM mahasiswa setelah dikelompokan: 62 16 53 71 13 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "7\r\n76\r\n8\r\n317\r\n284\r\n146\r\n3\r\n95",
-      "output": "\r\nDaftar NIM mahasiswa yang mengikuti ujian: 95 3 146 284 317 8 76\r\nDaftar NIM mahasiswa setelah dikelompokan: 146 284 8 76 95 3 317",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 95 3 146 284 317 8 76 \r\nDaftar NIM mahasiswa setelah dikelompokan: 146 284 8 76 95 3 317 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -25,7 +25,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "6\r\n99\r\n67\r\n41\r\n3\r\n11\r\n9",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 9 11 3 41 67 99\r\nDaftar NIM mahasiswa setelah dikelompokan: 9 11 3 41 67 99",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 9 11 3 41 67 99 \r\nDaftar NIM mahasiswa setelah dikelompokan: 9 11 3 41 67 99 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "5\r\n12\r\n4\r\n46\r\n30\r\n68",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 68 30 46 4 12\r\nDaftar NIM mahasiswa setelah dikelompokan: 68 30 46 4 12",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 68 30 46 4 12 \r\nDaftar NIM mahasiswa setelah dikelompokan: 68 30 46 4 12 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -45,7 +45,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "4\r\n713\r\n574\r\n437\r\n968",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 968 437 574 713\r\nDaftar NIM mahasiswa setelah dikelompokan: 968 574 437 713",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 968 437 574 713 \r\nDaftar NIM mahasiswa setelah dikelompokan: 968 574 437 713 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -55,7 +55,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "1\r\n333",
-      "output": "\r\nDaftar NIM mahasiswa yang mengikuti ujian: 333\r\nDaftar NIM mahasiswa setelah dikelompokan: 333",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 333 \r\nDaftar NIM mahasiswa setelah dikelompokan: 333 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -65,7 +65,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "15\r\n1\r\n982\r\n546\r\n783\r\n430\r\n433\r\n219\r\n13\r\n6\r\n94\r\n7\r\n55\r\n648\r\n83\r\n24",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 24 83 648 55 7 94 6 13 219 433 430 783 546 982 1\r\nDaftar NIM mahasiswa setelah dikelompokan: 24 648 94 6 430 546 982 83 55 7 13 219 433 783 1",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 24 83 648 55 7 94 6 13 219 433 430 783 546 982 1 \r\nDaftar NIM mahasiswa setelah dikelompokan: 24 648 94 6 430 546 982 83 55 7 13 219 433 783 1 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -75,7 +75,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "5\r\n4\r\n31\r\n576\r\n92\r\n83",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 83 92 576 31 4\r\nDaftar NIM mahasiswa setelah dikelompokan: 92 576 4 83 31",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 83 92 576 31 4 \r\nDaftar NIM mahasiswa setelah dikelompokan: 92 576 4 83 31 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -85,7 +85,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "7\r\n123\r\n567\r\n89\r\n5\r\n85\r\n7\r\n654",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 654 7 85 5 89 567 123\r\nDaftar NIM mahasiswa setelah dikelompokan: 654 7 85 5 89 567 123",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 654 7 85 5 89 567 123 \r\nDaftar NIM mahasiswa setelah dikelompokan: 654 7 85 5 89 567 123 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
@@ -95,7 +95,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "5\r\n22\r\n100\r\n4\r\n66\r\n888",
-      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 888 66 4 100 22\r\nDaftar NIM mahasiswa setelah dikelompokan: 888 66 4 100 22",
+      "output": "Daftar NIM mahasiswa yang mengikuti ujian: 888 66 4 100 22 \r\nDaftar NIM mahasiswa setelah dikelompokan: 888 66 4 100 22 ",
       "comparison": "included",
       "timeout": 1,
       "points": 10
